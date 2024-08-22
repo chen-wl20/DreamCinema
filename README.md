@@ -1,6 +1,6 @@
 # DreamCinema: Cinematic Transfer with Free Camera and 3D Character
 
-[**Paper**](https://arxiv.org/abs/2403.09625) | [**Project Page**](https://liuff19.github.io/Make-Your-3D//) | [**Video**](https://liuff19.github.io/Make-Your-3D/)
+[**Paper**](https://arxiv.org/abs/2403.09625) | [**Project Page**](https://liuff19.github.io/DreamCinema//) | [**Video**](https://liuff19.github.io/DreamCinema/)
 
 Official implementation of DreamCinema: Cinematic Transfer with Free Camera and 3D Character
 
