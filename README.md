@@ -16,6 +16,11 @@ Abstract: *We are living in a flourishing era of digital media, where everyone h
     <img src="assets/teaser.png">
 </p>
 
+## Method
+Our framework includes cinematic elements extraction, character generation, and cinematic transfer optimization. The cinematic elements extraction estimates character motion and cinematography. The character generation module creates 3D characters tailored to user preferences with human structure prior. The cinematic transfer optimization integrates the extracted cinematic elements and the generated 3D characters with structure-guided motion transfer. The complete pipeline is as follows:
+<p align="center">
+    <img src="assets/pipeline.png">
+</p>
 
 ## Cinematic Transfer Results
 
