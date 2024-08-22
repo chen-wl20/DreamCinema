@@ -31,12 +31,12 @@ DreamCinema generates diverse characters with high quality and alignment to user
 ## BibTeX
 
 ```bibtex
-@misc{liu2024makeyour3d,
-      title={Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation}, 
-      author={Fangfu Liu and Hanyang Wang and Weiliang Chen and Haowen Sun and Yueqi Duan},
-      year={2024},
-      eprint={2403.09625},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+;; @misc{liu2024makeyour3d,
+;;       title={Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation}, 
+;;       author={Fangfu Liu and Hanyang Wang and Weiliang Chen and Haowen Sun and Yueqi Duan},
+;;       year={2024},
+;;       eprint={2403.09625},
+;;       archivePrefix={arXiv},
+;;       primaryClass={cs.CV}
 }
 ```
