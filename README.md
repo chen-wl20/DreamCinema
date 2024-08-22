@@ -4,8 +4,9 @@
 
 Official implementation of DreamCinema: Cinematic Transfer with Free Camera and 3D Character
 
-Weiliang Chen, [Fangfu Liu](https://liuff19.github.io/), Diankun Wu, Haowen Sun, Haixu Song, [Yueqi Duan](https://duanyueqi.github.io/)
+Weiliang Chen, [Fangfu Liu](https://liuff19.github.io/)$\dagger$, Diankun Wu, Haowen Sun, Haixu Song, [Yueqi Duan](https://duanyueqi.github.io/)$\ddagger$
 
+$\dagger$ Project leader $\ddagger$ Corresponding author
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
 
