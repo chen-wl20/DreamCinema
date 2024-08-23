@@ -1,6 +1,6 @@
 # DreamCinema: Cinematic Transfer with Free Camera and 3D Character
 
-[**Paper**](https://arxiv.org/abs/2403.09625) | [**Project Page**](https://liuff19.github.io/DreamCinema//) | [**Video**](https://youtu.be/kwfRetxDgsg)
+[**Paper**](https://arxiv.org/abs/2408.12601) | [**Project Page**](https://liuff19.github.io/DreamCinema//) | [**Video**](https://youtu.be/kwfRetxDgsg)
 
 Official implementation of DreamCinema: Cinematic Transfer with Free Camera and 3D Character
 
@@ -36,6 +36,14 @@ DreamCinema generates diverse characters with high quality and alignment to user
 
 ## BibTeX
 
-```bibtex
-
+```
+@misc{chen2024dreamcinemacinematictransferfree,
+      title={DreamCinema: Cinematic Transfer with Free Camera and 3D Character}, 
+      author={Weiliang Chen and Fangfu Liu and Diankun Wu and Haowen Sun and Haixu Song and Yueqi Duan},
+      year={2024},
+      eprint={2408.12601},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.12601}, 
+}
 ```
