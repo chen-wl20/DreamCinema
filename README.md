@@ -29,9 +29,9 @@ DreamCinema generates diverse characters with high quality and alignment to user
     <img src="assets/main_results.png">
 </p>
 
+## Cinematic Transfer Results
 
-
-
+Thanks Kailu Wu and April for their insightful discussions during our work. We would also like to thank Haowen Sun for his significant contributions to the demo video.
 
 
 ## BibTeX
